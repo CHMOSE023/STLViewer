@@ -1,0 +1,7 @@
+; DockTool.def : Declares the module parameters for the DLL.
+
+LIBRARY      "DockTool"
+DESCRIPTION  'DockTool Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here

@@ -1,0 +1,26 @@
+#ENTITY_TYPE #NURBS_CURVE
+#ENTITY_NAME NURBS_CURVE:2
+#USIZE	9
+#PT  0.0  	-10.0    0.0
+#PT  10.0  -10.0    0.0
+#PT  10.0     0.0    0.0
+#PT  10.0    10.0    0.0
+#PT   0.0     10.0    0.0
+#PT  -10.0  10.0    0.0
+#PT  -10.0    0.0    0.0
+#PT  -10.0 -10.0   0.0
+#PT    0.0  -10.0    0.0
+#ORDER	3
+#KNOT  0.0
+#KNOT  0.0
+#KNOT  0.0
+#KNOT  0.14286
+#KNOT  0.28571
+#KNOT  0.42857
+#KNOT  0.57143
+#KNOT  0.71429
+#KNOT  0.85714
+#KNOT  1.0
+#KNOT  1.0
+#KNOT  1.0
+#ENTITY_END

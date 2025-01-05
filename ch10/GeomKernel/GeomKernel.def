@@ -1,0 +1,7 @@
+; GeomKernel.def : Declares the module parameters for the DLL.
+
+LIBRARY      "GeomKernel"
+DESCRIPTION  'GeomKernel Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
